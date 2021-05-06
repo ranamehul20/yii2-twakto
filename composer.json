@@ -1,0 +1,21 @@
+{
+    "name": "ranamehul20/yii2-twakto",
+    "description": "Yii2 tawk.to chat widget",
+    "type": "yii2-extension",
+    "license": "Apache-2.0",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Mehul Rana",
+            "email": "ranamehulj@gmail.com"
+        }
+    ],
+    "require": {
+     "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ranamehul20\\twak\\": ""
+        }
+    }
+}
